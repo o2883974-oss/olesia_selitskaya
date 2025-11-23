@@ -11,7 +11,7 @@ There are some topics a like the most:
      * the hyperbole
      * not usual graphs, like a piecewise defined function
 3. Equations
-     * in all its forms:)
+     * in all its forms:) :😘:
 
  And some subjects of first days of the week and pairs i have: 
 | *monday*      | *tuesday*     |*wednesday* |
