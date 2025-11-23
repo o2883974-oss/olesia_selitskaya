@@ -13,6 +13,14 @@ There are some topics a like the most:
 3. Equations
      * in all its forms:)
 
+ And some subjects of first days of the week and pairs i have: 
+| *monday*      | *tuesday*     |*wednesday* |
+| :-----------: |:-------------:| :---------:|
+| literature    | geography     | algebra    |
+| informatics   | biology       | history    |
+| PE            | C++           | physics    |
+
+
 And i also like reading articles about hard math problems, for example the Riman's gypotise, you an read about it [here](https://science.howstuffworks.com/)
 # And some memes:
 ![alt text](https://cs15.pikabu.ru/post_img/2024/09/22/1/1726959415113136214.jpg)
